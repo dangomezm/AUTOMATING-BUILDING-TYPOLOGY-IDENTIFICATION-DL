@@ -1,2 +1,2 @@
-# AUTOMATING-BUILDING-TYPOLOGY-IDENTIFICATION-DL
- Driven by rapid urbanization and heightened seismic risk concerns, efficient methods for  6 developing regional vulnerability assessments are advantageous. By leveraging deep learning and  computer vision techniques, this study presents a novel approach for automating the identification  of building typologies
+# AUTOMATING BUILDING TYPOLOGY IDENTIFICATION
+The weights and optimized hyperparameters for automating building typology identification using deep learning models and computer vision techniques are contained in this repository. This model aims to address the necessity of enhancing seismic risk assessment by creating an automated building stock using Google Street images. 
